@@ -1,0 +1,42 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4817]
+    Renderer: NVIDIA GeForce GTX 960M 
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\dell\Desktop\箱子的生死竞速_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 55.890812 ms
+gotoPlay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.826620 ms
+
+Unloading 254 unused Assets to reduce memory usage. Loaded Objects now: 2170.
+Total: 10.340647 ms (FindLiveObjects: 0.171324 ms CreateObjectMapping: 0.165008 ms MarkObjects: 0.764643 ms  DeleteObjects: 9.238487 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3110 -> priority: 1 
+  Thread -> id: 2714 -> priority: 1 
